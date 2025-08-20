@@ -18,6 +18,16 @@ I'm **Christos Kalaitzis**, a **Back-End Engineer** specializing in **scalable, 
 
 ---
 
+## 📂 Featured Projects  
+
+- 🌍 **[EEA Reportnet3](https://github.com/eea/eea.reportnet3)** – Contributions to the **European Environment Agency’s reporting platform** (under [ChristosKalaitzis](https://github.com/ChristosKalaitzis)).  
+- 🔥 **[Project Phoenix](https://github.com/christos-kalaitzis/project-phoenix)** – Real-time fraud detection engine built with **Kafka, Kubernetes, and observability stacks**.  
+- 📱 **[Lap Tracker](https://github.com/Panther-Racing-AUTh/lap-tracker)** – Flutter-based mobile app for **motorsport lap data visualization**.  
+- 🚗 **[CAN Data Pipeline](https://github.com/christos-kalaitzis/can-data-pipeline)** – Thesis project: **CAN bus log decoding + ESP32 OTA playback**.  
+- 📡 **[MLX90393 Visualization](https://github.com/christos-kalaitzis/mlx90393-visualization)** – Full-stack sensor visualization with **ESP32, Node.js, Vue.js, D3.js**.  
+
+---
+
 ## 🛠 Skills & Technologies  
 
 **Languages & Frameworks**  
@@ -31,13 +41,3 @@ I'm **Christos Kalaitzis**, a **Back-End Engineer** specializing in **scalable, 
 
 **Monitoring & Tools**  
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)	![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)	![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)	![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)	
-
----
-
-## 📂 Featured Projects  
-
-- 🌍 **[EEA Reportnet3](https://github.com/eea/eea.reportnet3)** – Contributions to the **European Environment Agency’s reporting platform** (under [ChristosKalaitzis](https://github.com/ChristosKalaitzis)).  
-- 🔥 **[Project Phoenix](https://github.com/christos-kalaitzis/project-phoenix)** – Real-time fraud detection engine built with **Kafka, Kubernetes, and observability stacks**.  
-- 📱 **[Lap Tracker](https://github.com/Panther-Racing-AUTh/lap-tracker)** – Flutter-based mobile app for **motorsport lap data visualization**.  
-- 🚗 **[CAN Data Pipeline](https://github.com/christos-kalaitzis/can-data-pipeline)** – Thesis project: **CAN bus log decoding + ESP32 OTA playback**.  
-- 📡 **[MLX90393 Visualization](https://github.com/christos-kalaitzis/mlx90393-visualization)** – Full-stack sensor visualization with **ESP32, Node.js, Vue.js, D3.js**.  
