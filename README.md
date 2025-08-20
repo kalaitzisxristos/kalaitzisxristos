@@ -14,7 +14,7 @@ I'm **Christos Kalaitzis**, a **Back-End Engineer** specializing in **scalable, 
 
 💬 Ask me about **Java, Spring Boot, Kafka, Kubernetes, CI/CD pipelines, or observability stacks**.  
 
-📫 How to reach me: [Email](mailto:Kalaitzisxristos@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/christos-kalaitzis/) | [GitHub](https://github.com/christos-kalaitzis)  
+📫 How to reach me: [Email](mailto:kalaitzisxristos@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/christos-kalaitzis/) | [GitHub](https://github.com/kalaitzisxristos)  
 
 ---
 
